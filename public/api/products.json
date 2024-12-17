@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "name": "水壺",
+      "price": 3999,
+      "category": "日常用品",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "毛衣",
+      "price": 2350,
+      "category": "冬季服裝",
+      "inStock": false
+    },
+    {
+      "id": 3,
+      "name": "水果刀",
+      "price": 499,
+      "category": "家居用品",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "蘋果",
+      "price": 100,
+      "category": "水果",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "橘子",
+      "price": 70,
+      "category": "水果",
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "name": "西瓜",
+      "price": 190,
+      "category": "水果",
+      "inStock": false
+    },
+    {
+      "id": 7,
+      "name": "香蕉",
+      "price": 30,
+      "category": "水果",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "櫻桃",
+      "price": 130,
+      "category": "水果",
+      "inStock": true
+    }
+  ]
+}
